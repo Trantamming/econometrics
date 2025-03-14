@@ -11,7 +11,7 @@ setup(
         'matplotlib'
     ],
     description='Package for econometric linear regression models and plotting.',
-    long_description=open('README.md').read(),
+    long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type='text/markdown',
     author='Trần Minh Tâm',
     author_email='tam.ming.zhan@gmail.com',
