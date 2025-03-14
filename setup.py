@@ -14,8 +14,8 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='Trần Minh Tâm',
-    author_email='email@example.com',
-    url='https://github.com/yourusername/econometrics',
+    author_email='tam.ming.zhan@gmail.com',
+    url='https://github.com/Trantamming/econometrics',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
